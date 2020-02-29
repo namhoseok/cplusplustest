@@ -12,8 +12,8 @@ int main()
     std::cout << "ang2?" << std::endl;
 
     std::cout << "ah haha master" << std::endl;
-
-
+    std::cout << "하나더,master" << std::endl
+    std::cout << "하나더slave" << std::endl;
 
 }
 
