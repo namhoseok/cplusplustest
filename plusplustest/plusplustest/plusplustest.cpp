@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::cout << "파일 입출력1ㄹㄴㅁㄹㄴㅁㄹㄴㅁㄹahahah! Hello Worlrwerd!\n";
+    std::cout << "23213213213파일 입출력1ㄹㄴㅁㄹㄴㅁㄹㄴㅁㄹahahah! Hello Worlrwerd!\n";
     std::cout << "test" << std::endl;
     std::cout << "ang?" << std::endl;
     std::cout << "ang2?" << std::endl;
