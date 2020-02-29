@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::cout << "Hello Worlrwerd!\n";
+    std::cout << "Hellretrewrto Worlrwerd!\n";
     std::cout << "test" << std::endl;
 }
 
