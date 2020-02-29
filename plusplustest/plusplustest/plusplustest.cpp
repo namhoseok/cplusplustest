@@ -12,7 +12,7 @@ int main()
     std::cout << "ang2?" << std::endl;
 
     std::cout << "ah haha master141414141" << std::endl;
-    std::cout << "하나더,master1212" << std::endl
+    std::cout << "하나더,master1213333333333332" << std::endl
     std::cout << "하나더slave" << std::endl;
 
 }
