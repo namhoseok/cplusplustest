@@ -12,7 +12,7 @@ int main()
     std::cout << "ang2?" << std::endl;
 
     std::cout << "하나더 추가4645645646" << std::endl;
-    std::cout << "하나더 추가45646465nnnnnnnnnnndndfnd" << std::endl;
+    std::cout << "aaaaaaaaaaaaaaaaaa하나더 추가45646465nnnnnnnnnnndndfnd" << std::endl;
 
 }
 
