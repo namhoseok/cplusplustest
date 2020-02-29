@@ -6,9 +6,11 @@
 
 int main()
 {
-    std::cout << "파일 입출력1ahahah! Hello Worlrwerd!\n";
+    std::cout << "파일 입출력1ㄹㄴㅁㄹㄴㅁㄹㄴㅁㄹahahah! Hello Worlrwerd!\n";
     std::cout << "test" << std::endl;
     std::cout << "ang?" << std::endl;
+    std::cout << "ang2?" << std::endl;
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
