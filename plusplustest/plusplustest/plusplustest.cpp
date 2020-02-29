@@ -13,7 +13,7 @@ int main()
 
     std::cout << "ah haha master" << std::endl;
     std::cout << "하나더,master" << std::endl
-    std::cout << "하나더slave4444444" << std::endl;
+    std::cout << "하나더sla21212121211ve4444444" << std::endl;
 
 
 
