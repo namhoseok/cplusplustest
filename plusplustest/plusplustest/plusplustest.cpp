@@ -15,6 +15,11 @@ int main()
     std::cout << "하나더,master1213333333333332" << std::endl
     std::cout << "하나더slave" << std::endl;
 
+    std::cout << "ah haha master" << std::endl;
+    std::cout << "하나더,master" << std::endl
+    std::cout << "하나더slave4444444" << std::endl;
+
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
