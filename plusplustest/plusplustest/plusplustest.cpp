@@ -11,7 +11,7 @@ int main()
     std::cout << "ang?" << std::endl;
     std::cout << "ang2?" << std::endl;
 
-    std::cout << "하나더12645645646" << std::endl;
+    std::cout << "하나더1264564564444444444444444444444444456" << std::endl;
 
 
 
