@@ -10,7 +10,9 @@ int main()
     std::cout << "test" << std::endl;
     std::cout << "ang?" << std::endl;
     std::cout << "ang2?" << std::endl;
+
     std::cout << "하나더 추가4645645646" << std::endl;
+    std::cout << "하나더 추가45646465" << std::endl;
 
 }
 
