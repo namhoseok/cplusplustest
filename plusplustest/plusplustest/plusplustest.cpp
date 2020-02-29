@@ -6,8 +6,9 @@
 
 int main()
 {
-    std::cout << "Heㄹㅇㄹllretrewrto Worlrwerd!\n";
+    std::cout << "ahahah! Hello Worlrwerd!\n";
     std::cout << "test" << std::endl;
+    std::cout << "ang?" << std::endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
